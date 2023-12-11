@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-
+    // комментарий для репозитория
     // Открытие файла
     HANDLE rarfile = CreateFile("work_with_vector.rar",
 	GENERIC_READ, // Права доступа - чтение
